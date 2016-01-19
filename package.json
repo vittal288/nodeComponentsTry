@@ -1,0 +1,24 @@
+{
+  "name": "nodecomponentstry",
+  "version": "1.0.0",
+  "description": "npm components try",
+  "main": "index.js",
+  "scripts": {
+    "test": "na"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vittal288/nodeComponentsTry.git"
+  },
+  "keywords": [
+    "NPM",
+    "NodeJS",
+    "Javascript"
+  ],
+  "author": "Vittal Kamkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vittal288/nodeComponentsTry/issues"
+  },
+  "homepage": "https://github.com/vittal288/nodeComponentsTry#readme"
+}
